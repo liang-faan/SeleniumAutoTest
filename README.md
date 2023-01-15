@@ -7,7 +7,7 @@ Access below URL and download the chromedriver version according to your local G
 Click [Chrome Version](chrome://version) or enter "chrome://version" in your Google Chrome address bar
 Sample Google Chrome Version
 ![Google Chrome Version](./images/GoogleChromeVersion-Sample.png)
-### 2.2 download chromedriver via below URL. 
+### 1.2 download chromedriver via below URL. 
 *Do remember download the right version according to your browser version *
 [ChromeDriverDownload](https://chromedriver.chromium.org/downloads)
 ![chromedriver download](./images/chromedriver_download.png)
